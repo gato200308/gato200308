@@ -43,11 +43,7 @@ Me gusta experimentar, crear y compartir proyectos de código. ¡Siempre dispues
 
 - 📧 Correo: santimolinaleon@gmail.com
 - 📱 WhatsApp: +57 312 3403367
-
-¿Tienes alguna red social profesional que quieras agregar?  
-Ejemplo:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)  
-[![Twitter/X](https://img.shields.io/badge/-X-black?logo=x&logoColor=white)](https://twitter.com/tuusuario)
+- [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png) ORCID: 0009-0005-3410-2093](https://orcid.org/0009-0005-3410-2093)
 
 ---
 
